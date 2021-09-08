@@ -1,0 +1,2 @@
+- Review by Tyson and Novak: https://doi.org/10.1016/j.tcb.2020.04.002
+- Paper on irreversibility by Xiong and Ferrell: https://www.nature.com/articles/nature02089
